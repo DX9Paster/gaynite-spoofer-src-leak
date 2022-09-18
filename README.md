@@ -8,6 +8,7 @@ credits: gaynite server https://discord.gg/gaynite, owner leftover#0984 and leak
 
 warnings: driver DTC and detect AC blue screen's!
 
+UI has benn removed, UI will be added soon!
 
 media:
 
